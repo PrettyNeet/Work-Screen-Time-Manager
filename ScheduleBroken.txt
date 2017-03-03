@@ -1,0 +1,7 @@
+monday,23,,8.0
+tuesday,24,5.0,9.0
+wednesday,25,8.5,7.5
+thursday,26,6.0,10.0
+friday,27,5.0,10.0
+saturday,28,2.0,12.5
+sunday,29,2.5,12.0
